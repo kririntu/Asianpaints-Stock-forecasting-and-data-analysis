@@ -425,10 +425,11 @@ This opens the machine-learning prediction interface.
 
 # 📊 Dashboard Screenshot
 
-Add your Streamlit dashboard screenshot to the repository, for example:
+
 
 ```text
-images/dashboard.png
+screenshot/1_dash.png
+screenshot/2.png
 ```
 
 Then include it in the README:

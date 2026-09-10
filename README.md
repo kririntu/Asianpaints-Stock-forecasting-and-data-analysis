@@ -425,26 +425,20 @@ This opens the machine-learning prediction interface.
 
 # 📊 Dashboard Screenshot
 
+## 📊 Data Analysis Dashboard
 
+The Streamlit dashboard provides an interactive view of Asian Paints stock data, technical indicators, market factors, and sentiment-based features.
 
-```text
-screenshot/1_dash.png
-screenshot/2.png
-```
+### Dashboard
 
-Then include it in the README:
+![Asian Paints Data Analysis Dashboard - Part 1](screenshot/1_dash.png)
 
-```markdown
-## 📊 Dashboard
+![Asian Paints Data Analysis Dashboard - Part 2](screenshot/2.png)
 
-![Asian Paints Data Analysis Dashboard](images/dashboard.png)
-```
+### Stock Prediction
 
-You can also add a separate screenshot for the prediction dashboard:
+![Stock Prediction](screenshot/stock.png)
 
-```markdown
-![Asian Paints Stock Prediction Dashboard](images/prediction.png)
-```
 
 ---
 

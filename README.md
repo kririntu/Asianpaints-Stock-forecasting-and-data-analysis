@@ -404,7 +404,7 @@ http://127.0.0.1:8000/health
 Run:
 
 ```bash
-streamlit run <data-analysis-file>.py
+streamlit run stremdata.py
 ```
 
 This opens the historical stock-analysis dashboard.
@@ -416,7 +416,7 @@ This opens the historical stock-analysis dashboard.
 Run:
 
 ```bash
-streamlit run <prediction-file>.py
+streamlit run streamlit.py
 ```
 
 This opens the machine-learning prediction interface.
